@@ -13,5 +13,7 @@
     "qunit": "~1.18.0",
     "sinonjs": "~1.14.1"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "blanket": "~1.1.5"
+   }
 }
